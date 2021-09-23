@@ -1,4 +1,4 @@
-# Discord Rpc CSharp
+# Discord Rpc CSharp & Unity
 
 Create by PoligamerYT
 
