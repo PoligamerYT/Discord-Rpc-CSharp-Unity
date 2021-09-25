@@ -2,4 +2,4 @@
 
 Create by PoligamerYT
 
-Instalation Tutorial: Comming Soon
+Instalation Tutorial: https://youtu.be/PDOQ0FvD7RQ
